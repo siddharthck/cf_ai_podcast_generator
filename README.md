@@ -7,6 +7,44 @@ Generate professional podcasts on any topic in minutes with AI. Perfect for pass
 > **📧 Note:** When signing up, check your spam folder if you don't see the confirmation email.  
 > **⏳ Note:** After generating your podcast, please wait a few seconds when you click the "Generate Audio" button. Enjoy!
 
+## 📋 Quick Start - Try It Out Now!
+
+Follow these simple steps to create your first podcast:
+
+### Step 1: Sign Up
+- Visit [https://cf-ai-podcast-generator.pages.dev/](https://cf-ai-podcast-generator.pages.dev/)
+- Click on the sign-up button
+- Enter your email and create a password
+- You'll receive a confirmation email
+
+### Step 2: Verify Email
+- Check your inbox for the confirmation email
+- **⚠️ Important:** Check your spam/junk folder if you don't see it in your inbox
+- Click the confirmation link to activate your account
+
+### Step 3: Create a Podcast
+- Log in to your account
+- Click the **"Generate Podcast"** button on the dashboard
+
+### Step 4: Enter Details
+- **Topic:** What would you like the podcast to be about?
+- **Duration:** How long should it be? (e.g., "5 minutes", "10 minutes")
+- **Style:** Choose a style (Educational, Conversational, Storytelling, etc.)
+- Click **"Generate"** and wait for the script to be created
+- This typically takes a few seconds
+
+### Step 5: Generate Audio
+- Once the script is generated, you'll see the podcast card
+- Click the **🎵 sound icon** to generate audio narration
+- **⏳ Important:** Wait a few seconds for the audio to be processed
+- The speaker will use different voices for Host and Interviewer
+
+### Step 6: Play and Enjoy
+- Click the **▶️ play button** to start listening
+- Listen to your custom-generated podcast
+- You can also view the full script while listening
+- Share or download your podcast anytime
+
 ## 🎯 The Inspiration
 
 Ever been on a flight and wished you could listen to a podcast about a specific topic? Or wanted to learn something new during your commute but couldn't find the right podcast? **KT** solves that problem.
@@ -31,15 +69,7 @@ Produces eye-catching, professional podcast artwork using AI image generation. P
 ### 🎵 **Text-to-Speech Agent**
 Converts the script into high-quality audio narration with different voices for each speaker, creating a dynamic listening experience.
 
-## 🚀 Getting Started
-
-1. **Sign up** with your email
-2. **Enter your topic** - anything you're interested in
-3. **Choose duration and style** - customize to your preference
-4. **Generate** - our AI agents create your podcast in seconds
-5. **Listen** - play it right away or download for later
-
-## 🛠️ Technology Stack
+## ️ Technology Stack
 
 **Frontend:**
 - React 18 with TypeScript
@@ -84,7 +114,45 @@ Converts the script into high-quality audio narration with different voices for 
 ![Podcast Player](docs/podcast%20player.png)
 *Play your podcasts with a full-featured audio player showing the script*
 
-## 📖 Development
+## � How to Use
+
+Follow these simple steps to create your first podcast:
+
+### Step 1: Sign Up
+- Visit [https://cf-ai-podcast-generator.pages.dev/](https://cf-ai-podcast-generator.pages.dev/)
+- Click on the sign-up button
+- Enter your email and create a password
+- You'll receive a confirmation email
+
+### Step 2: Verify Email
+- Check your inbox for the confirmation email
+- **⚠️ Important:** Check your spam/junk folder if you don't see it in your inbox
+- Click the confirmation link to activate your account
+
+### Step 3: Create a Podcast
+- Log in to your account
+- Click the **"Generate Podcast"** button on the dashboard
+
+### Step 4: Enter Details
+- **Topic:** What would you like the podcast to be about?
+- **Duration:** How long should it be? (e.g., "5 minutes", "10 minutes")
+- **Style:** Choose a style (Educational, Conversational, Storytelling, etc.)
+- Click **"Generate"** and wait for the script to be created
+- This typically takes a few seconds
+
+### Step 5: Generate Audio
+- Once the script is generated, you'll see the podcast card
+- Click the **🎵 sound icon** to generate audio narration
+- **⏳ Important:** Wait a few seconds for the audio to be processed
+- The speaker will use different voices for Host and Interviewer
+
+### Step 6: Play and Enjoy
+- Click the **▶️ play button** to start listening
+- Listen to your custom-generated podcast
+- You can also view the full script while listening
+- Share or download your podcast anytime
+
+## �📖 Development
 
 **Local Development**
 
